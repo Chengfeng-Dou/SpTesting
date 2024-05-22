@@ -11,12 +11,10 @@ After the simulated dialogue history has been generated, proceed to evaluate the
 If you use our dataset, please cite it:
 
 ```text
-@inproceedings{
-anonymous2024integrating,
-title={Integrating Physician Diagnostic Logic into Large Language Models: Preference Learning from Process Feedback},
-author={Anonymous},
-booktitle={The 62nd Annual Meeting of the Association for Computational Linguistics},
-year={2024},
-url={https://openreview.net/forum?id=rfdXEPi33G}
+@article{dou2024integrating,
+  title={Integrating Physician Diagnostic Logic into Large Language Models: Preference Learning from Process Feedback},
+  author={Dou, Chengfeng and Jin, Zhi and Jiao, Wenpin and Zhao, Haiyan and Zhao, Yongqiang and Tao, Zhenwei},
+  journal={arXiv preprint arXiv:2401.05695},
+  year={2024}
 }
 ```
