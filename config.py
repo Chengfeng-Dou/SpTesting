@@ -1,0 +1,3 @@
+OPEN_AI_KEY = 'sk-NtQXSEO4reABT0BuD5EdBa91C8F6463888E51aB77542D8A2'
+OPEN_AI_BASE = 'https://api.ai-yyds.com/v1'
+MODEL = "gpt-4-0613"
