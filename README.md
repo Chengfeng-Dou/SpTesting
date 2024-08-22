@@ -12,10 +12,25 @@ If you use our dataset, please cite it:
 
 ```text
 @article{dou2024integrating,
-  title={Integrating Physician Diagnostic Logic into Large Language Models: Preference Learning from Process Feedback},
-  author={Dou, Chengfeng and Jin, Zhi and Jiao, Wenpin and Zhao, Haiyan and Zhao, Yongqiang and Tao, Zhenwei},
-  journal={arXiv preprint arXiv:2401.05695},
-  year={2024}
+@inproceedings{dou-etal-2024-integrating,
+    title = "Integrating Physician Diagnostic Logic into Large Language Models: Preference Learning from Process Feedback",
+    author = "Dou, Chengfeng  and
+      Zhang, Ying  and
+      Jin, Zhi  and
+      Jiao, Wenpin  and
+      Zhao, Haiyan  and
+      Zhao, Yongqiang  and
+      Tao, Zhengwei",
+    editor = "Ku, Lun-Wei  and
+      Martins, Andre  and
+      Srikumar, Vivek",
+    booktitle = "Findings of the Association for Computational Linguistics ACL 2024",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand and virtual meeting",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.findings-acl.144",
+    pages = "2453--2473"
 }
 ```
 
