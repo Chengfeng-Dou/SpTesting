@@ -1,3 +1,3 @@
-OPEN_AI_KEY = 'sk-NtQXSEO4reABT0BuD5EdBa91C8F6463888E51aB77542D8A2'
-OPEN_AI_BASE = 'https://api.ai-yyds.com/v1'
+OPEN_AI_KEY = 'Your Key'
+OPEN_AI_BASE = 'Your Base'
 MODEL = "gpt-4-0613"
